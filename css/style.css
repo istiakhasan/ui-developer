@@ -1,0 +1,74 @@
+.upcomming_container {
+  border: 1px solid #BDBA35;
+  border-radius: 4px;
+}
+.upcomming_container .plus_icon {
+  color: #BDBA35;
+  cursor: pointer;
+  padding: 3px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.1);
+}
+.upcomming_container .cm_checkbox {
+  color: white;
+  background: #BDBA35;
+  padding: 2px;
+  border-radius: 50%;
+  border: none;
+}
+.upcomming_container .three_dot {
+  cursor: pointer;
+}
+.upcomming_container .three_dot span {
+  height: 4px;
+  width: 4px;
+  border-radius: 50%;
+  background: #BDBA35;
+  display: inline-block;
+}
+
+.cm_modal .md_header {
+  height: 40px;
+  background: #BDBA35;
+  color: white;
+}
+.cm_modal .md_header h1 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.cm_modal .cm_input {
+  margin-bottom: 10px;
+}
+.cm_modal .cm_input label {
+  font-size: 14px;
+  display: block;
+}
+.cm_modal .cm_input input {
+  width: 100%;
+  font-size: 14px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 5px 0px;
+}
+.cm_modal .sub_btn {
+  background: #BDBA35;
+  border: none;
+  color: white;
+  font-size: 14px;
+  padding: 3px;
+  border-radius: 3px;
+  width: 70px;
+}
+.cm_modal .cancel_btn {
+  border: 1px solid #BDBA35;
+  color: #BDBA35;
+  font-size: 14px;
+  padding: 3px;
+  border-radius: 3px;
+  width: 70px;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}/*# sourceMappingURL=style.css.map */
